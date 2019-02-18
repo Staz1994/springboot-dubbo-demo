@@ -1,0 +1,1 @@
+myExceptionFilter=com.wynstaz.core.dubbofilter.ExceptionFilter
